@@ -33,6 +33,7 @@ modules:
       remove:
         - io.github.getnf.embellish
         - io.github.input_leap.input-leap
+        - io.missioncenter.MissionCenter
         - io.podman_desktop.PodmanDesktop
         - org.gnome.DejaDup
         - org.gnome.World.PikaBackup
