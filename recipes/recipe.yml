@@ -19,7 +19,6 @@ modules:
 
   - type: rpm-ostree
     install:
-      - kvantum
       - papirus-icon-theme
     remove:
       - Sunshine
