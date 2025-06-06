@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-mapfile -t FONTS < "/tmp/nerd-fonts.txt"
+mapfile -t FONTS < "/tmp/google-fonts.txt"
 DEST="/usr/share/fonts/google-fonts"
 
 echo "Installation of google-fonts started"
