@@ -13,3 +13,6 @@ cp /ctx/config/* /tmp/
 
 # Install Google Fonts
 /ctx/02-google-fonts.sh
+
+# Cleanup
+/ctx/03-cleanup.sh
